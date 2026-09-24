@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Hi, I'm Harine. Engine architecture enthusiast. CS in Real-Time Interactive Simulation · DigiPen × SIT" width="100%" />
+<img src="banner-typed.svg" alt="Hi, I'm Harine. I'm a professional beginner at everything. CS in Real-Time Interactive Simulation · DigiPen × SIT" width="100%" />
 
 ### About me
 
