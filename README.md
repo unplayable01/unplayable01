@@ -10,7 +10,7 @@ My secret weapon is **patience**. Whether it's a gnarly bug, an algorithm that w
 
 ### Things I've built
 
-<a href="https://games.digipen.edu/games/tilt-tilt-boom"><img src="ttb-banner.gif" alt="TiltTiltBoom! Tilt the whole level to defuse a bomb." width="100%" /></a>
+<a href="https://games.digipen.edu/games/tilt-tilt-boom"><img src="ttb-banner-v2.gif" alt="TiltTiltBoom! Tilt the whole level to defuse a bomb." width="100%" /></a>
 
 **💣 [TiltTiltBoom!](https://games.digipen.edu/games/tilt-tilt-boom)** · *Technical Lead & Composer*<br>
 A published puzzle game where you tilt the whole level to defuse a bomb. I architected our custom engine, **TTBEngine**, to be modular and flexible enough to keep up with a changing design, and I also wrote the soundtrack, so I got to shape both how the game works and how it feels.<br>
