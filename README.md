@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=30&duration=2800&pause=900&color=9184D9&vCenter=true&width=600&lines=hi%2C+I'm+Harine+%F0%9F%91%8B;engine+architecture+enthusiast;part-time+sanity+tester;currently+training+a+guard+dog+(in+Python)" alt="hi, I'm Harine" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=30&duration=2800&pause=900&color=9184D9&vCenter=true&width=600&lines=Hi%2C+I'm+Harine+%F0%9F%91%8B;Engine+architecture+enthusiast;Part-time+sanity+tester;currently+training+a+guard+dog" alt="hi, I'm Harine" />
 
 ### About me
 
@@ -15,7 +15,7 @@ A published puzzle game where you tilt the whole level to defuse a bomb. I archi
 🎮 [Play it here](https://games.digipen.edu/games/tilt-tilt-boom)
 
 **🐕 [aaron-the-guard-dog](https://github.com/unplayable01/aaron-the-guard-dog)** · *in progress*
-Anti-intrusion software written in Python. Aaron watches the door so I don't have to.
+Anti-intrusion software written in Python. Aaron watches my screen so I don't have to.
 
 ### What I'm into
 
