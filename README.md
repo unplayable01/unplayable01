@@ -1,5 +1,5 @@
 <p align="center">
-<img src="hero.svg" width="100%" alt="hi, i'm harine. I'm a professional beginner at everything." />
+<img src="hero2.svg" width="100%" alt="hi, i'm harine. I'm a professional beginner at everything." />
 <img src="intro.svg" width="100%" alt="I'm a CS student who builds engines and systems for games and simulations. Into: engines and systems, math made real, clean logic, and music." />
 <img src="about.svg" width="100%" alt="About me: CS in Real-Time Interactive Simulation student at DigiPen × Singapore Institute of Technology. Started in Electronic & Computer Engineering at Ngee Ann Polytechnic. C/C++ and Go for speed, Python to ship, TypeScript for UIs." />
 <img src="built.svg" width="100%" alt="Things I've built" />
