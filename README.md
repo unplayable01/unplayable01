@@ -5,7 +5,7 @@
 <img src="built.svg" width="100%" alt="Things I've built" />
 <a href="https://games.digipen.edu/games/tilt-tilt-boom"><img src="ttb-banner-cream.gif" width="100%" alt="Tilt Tilt Boom! Tilt the whole level to defuse a bomb." /></a>
 <a href="https://games.digipen.edu/games/tilt-tilt-boom"><img src="ttb-card.svg" width="100%" alt="Technical Lead & Composer. I architected our custom engine, TTBEngine, and wrote the soundtrack. Play it on the DigiPen Game Gallery." /></a>
-<a href="https://github.com/unplayable01/aaron-the-guard-dog"><img src="aaron-card.svg" width="100%" alt="aaron the guard dog: anti-intrusion software written in Python. In progress." /></a>
+<a href="https://github.com/unplayable01/aaron-the-guard-dog"><img src="aaron-card2.svg" width="100%" alt="aaron the guard dog: anti-intrusion software written in Python. In progress." /></a>
 <img src="stack-card.svg" width="100%" alt="Tech stack: C, C++, Go, Python, JavaScript, TypeScript, Java, Linux, Bash" />
 <img src="footer.svg" width="100%" alt="My secret weapon is patience. Say hi: open to engine-, systems- and simulation-shaped internships." />
 </p>
