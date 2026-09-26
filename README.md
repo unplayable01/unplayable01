@@ -1,8 +1,8 @@
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="hero-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="hero-light.svg" />
-<img src="hero-dark.svg" width="100%" alt="Hey, I'm Harine. Engine Architecture, Real-Time Systems, Game Audio. I'm a professional beginner at everything." />
+<source media="(prefers-color-scheme: dark)" srcset="hero2-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="hero2-light.svg" />
+<img src="hero2-dark.svg" width="100%" alt="Hey, I'm Harine. Engine Architecture, Real-Time Systems, Game Audio. I'm a professional beginner at everything." />
 </picture>
 </p>
 
