@@ -1,5 +1,5 @@
 <p align="center">
-<img src="v7-hero.svg" width="100%" alt="Hey, I'm Harine. Engine Architecture, Real-Time Systems, Game Audio. I'm a professional beginner at everything." />
+<img src="v8-hero.svg" width="100%" alt="Hey, I'm Harine. Engine Architecture, Real-Time Systems, Game Audio. I'm a professional beginner at everything." />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 <a href="https://games.digipen.edu/games/tilt-tilt-boom"><img src="v3-card-engine.svg" width="49%" alt="TTBEngine: custom modular C++ game engine" /></a>
 <a href="https://games.digipen.edu/games/tilt-tilt-boom"><img src="v3-card-music.svg" width="49%" alt="TTB Soundtrack: original game music" /></a>
 <img src="v4-skills.svg" width="100%" alt="Skills: C, C++, Go, Python, JavaScript, TypeScript, Java, Linux, Bash" />
-<img src="v7-about.svg" width="100%" alt="About me: CS in Real-Time Interactive Simulation student at DigiPen × Singapore Institute of Technology. Previously Electronic & Computer Engineering at Ngee Ann Polytechnic. Secret weapon: patience." />
+<img src="v8-about.svg" width="100%" alt="About me: CS in Real-Time Interactive Simulation student at DigiPen × Singapore Institute of Technology. Previously Electronic & Computer Engineering at Ngee Ann Polytechnic. Secret weapon: patience." />
 <img src="v4-footer.svg" width="100%" alt="Let's make something boom! harinesumen@gmail.com, Singapore. Open to internships and collaborations." />
 </p>
 
