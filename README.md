@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://games.digipen.edu/games/tilt-tilt-boom"><img src="btn-play-dark.svg" height="46" alt="Play Tilt Tilt Boom" /></a>&nbsp;&nbsp;<a href="https://github.com/unplayable01?tab=repositories"><img src="btn-projects-dark.svg" height="46" alt="View Projects" /></a>
+<a href="https://games.digipen.edu/games/tilt-tilt-boom"><img src="btn-play-dark.svg" height="46" alt="Play Tilt Tilt Boom" /></a>&nbsp;&nbsp;<a href="https://github.com/unplayable01?tab=repositories"><img src="btn-projects2-dark.svg" height="46" alt="View Projects" /></a>
 </p>
 
 <p align="center">
@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-<a href="mailto:harinesumen@gmail.com"><img src="btn-email-dark.svg" height="46" alt="Email me" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/harinesumen/"><img src="btn-linkedin-dark.svg" height="46" alt="LinkedIn" /></a>
+<a href="mailto:harinesumen@gmail.com"><img src="btn-email-dark.svg" height="46" alt="Email me" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/harinesumen/"><img src="btn-linkedin2-dark.svg" height="46" alt="LinkedIn" /></a>
 </p>
